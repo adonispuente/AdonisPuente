@@ -1,8 +1,5 @@
 ### Hi there 👋 
-Im Adonis! Im a software engineer who is passionate about developing code and creating solutions!
-
-
-Here are links to reach me and what im working on!
+<img src="https://media.giphy.com/media/yrloZdz1WiXpWyRFVJ/giphy.gif" />
 
 - 🔭 I’m currently working on ... A fitness application in React.js
 - 👯 I’m looking to collaborate on ... React projects
