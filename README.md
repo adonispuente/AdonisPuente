@@ -1,5 +1,6 @@
+<img src="https://media.giphy.com/media/uMzFnGrHdHvPPmVC2q/giphy.gif" />
 
-<img src="https://media.giphy.com/media/yrloZdz1WiXpWyRFVJ/giphy.gif" />
+Here are links to reach me and what im working on!
 
 - 🔭 I’m currently working on ... A fitness application in React.js
 - :computer: I’m looking to collaborate on ... React projects
